@@ -1,4 +1,4 @@
-release_notes_template = "aaaa"
+release_notes_template = "a1"
 
 connectivity_policy {
 }
